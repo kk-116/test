@@ -1,38 +1,38 @@
 var blogs = [
     {
-        "title": "Blog Title 1",
+        "title": "Title 1",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "10/05/2023",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "Blog Title 2",
+        "title": "Title 2",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "11/05/2023",
         "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
     },
     {
-        "title": "Blog Title 3",
+        "title": "Title 3",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "12/05/2023",
         "content": "Suspendisse et dapibus nisl. Nunc eget mauris vel justo hendrerit ullamcorper."
     },
     {
-        "title": "Blog Title 4",
+        "title": "Title 4",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "13/05/2023",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "Blog Title 5",
+        "title": "Title 5",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "14/05/2023",
         "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
     },
     {
-        "title": "Blog Title 6",
+        "title": "Title 6",
         "author": "kk",
-        "date": "14/05/2003",
+        "date": "15/05/2023",
         "content": "Suspendisse et dapibus nisl. Nunc eget mauris vel justo hendrerit ullamcorper."
     }
 ];
